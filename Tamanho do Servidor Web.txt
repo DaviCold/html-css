@@ -1,0 +1,21 @@
+Tamanho do Servidor Web
+
+https://www.wpbeginner.com/pt/beginners-guide/how-to-determine-the-ideal-size-of-a-web-server-for-your-website/
+
+{
+    display: ;
+    margin: ;
+    width: ;
+    height: ;
+    padding: ;
+    border: ;
+    border-radius: ;
+    border-color: ;
+    outline: ;
+    background-color: ;
+    background-image: ;
+    text-decoration: ;
+    text-align: ;
+    color: ;
+    font: ;
+}
